@@ -124,10 +124,12 @@ They do not understand text — they predict patterns.
 
 ## Project structure
 
+```
 token-inspector/
 ├── token_inspector.py
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
